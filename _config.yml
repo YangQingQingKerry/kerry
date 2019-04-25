@@ -1,7 +1,23 @@
 title: Kerry.Yang
 description:  CFA I, FRM II
 show_downloads: false
+author:
+  name: kerry.yang
+social-network-links:
+  rss: true
+  email: "u3003336@connect.hku.hk"
+share-links-active:
+  email: true
 google_analytics:
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
 theme: jekyll-theme-dinky
 
  
