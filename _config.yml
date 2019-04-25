@@ -1,12 +1,7 @@
+sidebar: false
 title: Kerry.Yang
 description:  CFA I, FRM II
 show_downloads: false
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
 google_analytics:
 theme: jekyll-theme-dinky
 
