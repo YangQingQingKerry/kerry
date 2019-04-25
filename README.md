@@ -8,16 +8,17 @@ My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree i
 #### Research Interest 
 - Machine Learning 
 - Stochastic Control and Optimization 
+- Financial Modeling and Valuation 
 - Market Microstructure 
 - Algo and High Frequency Trading 
 
 #### Selected Publications  
 
 1. Q. Yang, W. Ching, J. W. Gu and T. Siu, “Market-Making Strategy with Asymmetric Information and Regime-Switching”, Journal of Economic Dynamics and Control, 90, (2018), 408-433. 
-2. Q. Yang, W. Ching, W. He and  T. Siu, Pricing Vulnerable Options Using a Markov-modulated Jump-Diffusion Model with Fire Sales, Journal of Industrial and Management Optimization, 15, 2019, 293-318.
-3. Q. Yang, W. Ching, J. Gu and T. Siu, On Optimal Pricing Model for Multiple Dealers in a Competitive Market, Computational Economics, 53, 2019, 397-431.
-4. Q. Yang, W. Ching, J. Gu and T. Wong, Optimal Liquidation Problems in a Randomly-Terminated Horizon, revised and resubmitted to Automatica.
-5. Q. Yang, W. Ching, T. Siu and  Z. Zhang, A Markov-Driven Portfolio Execution Strategy across Multiple Venues with Market Impact, Numerical Mathematics: Theory, Methods and Applications, 11(4), 2018, 701-728.
+2. Q. Yang, W. Ching, W. He and  T. Siu, "Pricing Vulnerable Options Using a Markov-modulated Jump-Diffusion Model with Fire Sales", Journal of Industrial and Management Optimization, 15, 2019, 293-318.
+3. Q. Yang, W. Ching, J. Gu and T. Siu, "On Optimal Pricing Model for Multiple Dealers in a Competitive Market", Computational Economics, 53, 2019, 397-431.
+4. Q. Yang, W. Ching, J. Gu and T. Wong, "Optimal Liquidation Problems in a Randomly-Terminated Horizon", revised and resubmitted to Automatica.
+5. Q. Yang, W. Ching, T. Siu and  Z. Zhang, "A Markov-Driven Portfolio Execution Strategy across Multiple Venues with Market Impact", Numerical Mathematics: Theory, Methods and Applications, 11(4), 2018, 701-728.
  
 
 #### Professional Services
