@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Pages
+**Contact Me**
+- E-mial: u3003336[AT]connect.hku.hk
 
-You can use the [editor on GitHub](https://github.com/kerry921005/ky.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### Bio 
+My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree in Mathematics from [University of Science and Technology of China](http://math.ustc.edu.cn/new/En/) in 2014, and my Ph.D in Financial Mathematics from [University of Hong Kong](http://www.math.hku.hk/) in 2018.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Research Interest 
+- Machine Learning 
+- Stochastic Control and Optimization 
+- Market Microstructure 
+- Algo and High Frequency Trading 
 
-### Markdown
+#### Selected Publications  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Q. Yang, W. Ching, J. W. Gu and T. Siu, “Market-Making Strategy with Asymmetric Information and Regime-Switching”, Journal of Economic Dynamics and Control, 90, (2018), 408-433. 
+2. Q. Yang, W. Ching, W. He and  T. Siu, Pricing Vulnerable Options Using a Markov-modulated Jump-Diffusion Model with Fire Sales, Journal of Industrial and Management Optimization, 15, 2019, 293-318.
+3. Q. Yang, W. Ching, J. Gu and T. Siu, On Optimal Pricing Model for Multiple Dealers in a Competitive Market, Computational Economics, 53, 2019, 397-431.
+4. Q. Yang, W. Ching, J. Gu and T. Wong, Optimal Liquidation Problems in a Randomly-Terminated Horizon, revised and resubmitted to Automatica.
+5. Q. Yang, W. Ching, T. Siu and  Z. Zhang, A Markov-Driven Portfolio Execution Strategy across Multiple Venues with Market Impact, Numerical Mathematics: Theory, Methods and Applications, 11(4), 2018, 701-728.
+ 
+ 
+ #### Professional Services
+ - Reviewer for Automatica
+ - Reviewer for 18th IFAC Symposium on System Identiffcation
+ - Invited talk at SIAM Conference on Control and Its Applications (CT17), Pittsburg,Jul, 2017
+ - Invited talk at SIAM Conference on Financial Mathematics and Engineering, Austin, Nov, 2016
+ - Invited talk at 6th International IMS-FIPS Workshop, Edmonton, Jul, 2016
+ - Invited talk at East Asia Section of SIAM Conference, Macau, Jun, 2016
+ - Invited talk at International Conference on Applied Mathematics, Hong Kong, Jun, 2016
+ - Invited talk at 4th Asian Quantitative Finance Conference, Osaka, Feb, 2016
+ 
+ #### Working Experience 
+ - Equity Delta-1 Trading Quant, China International Capital Corporation (Hong Kong) Limited, Aug.2018- Apr.2019
+ 
+![Image](src)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kerry921005/ky.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
