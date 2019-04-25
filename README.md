@@ -19,8 +19,8 @@ My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree i
 4. Q. Yang, W. Ching, J. Gu and T. Wong, Optimal Liquidation Problems in a Randomly-Terminated Horizon, revised and resubmitted to Automatica.
 5. Q. Yang, W. Ching, T. Siu and  Z. Zhang, A Markov-Driven Portfolio Execution Strategy across Multiple Venues with Market Impact, Numerical Mathematics: Theory, Methods and Applications, 11(4), 2018, 701-728.
  
- 
- #### Professional Services
+
+#### Professional Services
  - Reviewer for Automatica
  - Reviewer for 18th IFAC Symposium on System Identiffcation
  - Invited talk at SIAM Conference on Control and Its Applications (CT17), Pittsburg,Jul, 2017
@@ -30,10 +30,10 @@ My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree i
  - Invited talk at International Conference on Applied Mathematics, Hong Kong, Jun, 2016
  - Invited talk at 4th Asian Quantitative Finance Conference, Osaka, Feb, 2016
  
- #### Working Experience 
+#### Working Experience 
  - Equity Delta-1 Trading Quant, China International Capital Corporation (Hong Kong) Limited, Aug.2018- Apr.2019
  
-![Image](src)
+ 
 
 
 
