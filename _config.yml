@@ -2,6 +2,7 @@ ytitle: Kerry
 description:  CFA I, FRM II
 show_downloads: false
 google_analytics:
+jailed: false
 theme: jekyll-theme-dinky
 
  
