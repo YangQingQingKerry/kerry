@@ -4,7 +4,6 @@ show_downloads: false
 google_analytics:
 index.md: 
 avatar: /images/img.jpg
-
 github:
   is_project_page: false
   repository_url: https://github.com/YangQingQingKerry
