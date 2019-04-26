@@ -3,6 +3,11 @@ description:  CFA I, FRM II
 show_downloads: false
 google_analytics:
 index.md: 
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
 theme: jekyll-theme-dinky
 
  
