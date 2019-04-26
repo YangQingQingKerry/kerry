@@ -3,6 +3,7 @@ description:  CFA I, FRM II
 show_downloads: false
 google_analytics:
 index.md: 
+avatar: /images/img.jpg
 
 github:
   is_project_page: false
