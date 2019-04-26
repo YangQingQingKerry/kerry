@@ -8,9 +8,7 @@ github:
 kramdown:
   footnote_nr: 1
    
-collections:
-  posts:
-    output: true
+ 
 theme: jekyll-theme-dinky
 
  
