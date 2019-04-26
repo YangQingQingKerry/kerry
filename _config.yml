@@ -3,6 +3,8 @@ description:  CFA I, FRM II
 show_downloads: false
 google_analytics:
 index.md: 
+github:
+  is_project_page: false
 theme: jekyll-theme-dinky
 
  
