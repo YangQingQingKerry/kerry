@@ -1,6 +1,4 @@
 ## Welcome to My HomePage
-![image](http://github.com/YangQingQingKerry/kerry/raw/master/images/img.jpg){:height="50%" width="50%"}
-
 **Contact Me**
 - E-mial: u3003336[AT]connect.hku.hk
 
