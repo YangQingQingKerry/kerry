@@ -10,7 +10,7 @@ kramdown:
    
 collections:
   posts:
-    output: false
+    output: true
 theme: jekyll-theme-dinky
 
  
