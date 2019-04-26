@@ -5,7 +5,8 @@ google_analytics:
 index.md: 
 github:
   is_project_page: false
-  bottons: false
+  repository_url: 
+
 theme: jekyll-theme-dinky
 
  
