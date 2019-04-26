@@ -7,7 +7,7 @@ github:
   is_project_page: false
 kramdown:
   footnote_nr: 1
-  auto_ids: false
+   
 collections:
   posts:
     output: false
