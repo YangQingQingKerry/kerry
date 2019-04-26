@@ -6,6 +6,7 @@ index.md:
 github:
   is_project_page: false
   repository_url: https://github.com/kerry921005
+  url: https://github.com/kerry921005
   
 kramdown:
   footnote_nr: 1
