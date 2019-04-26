@@ -1,11 +1,12 @@
 title: Kerry.Yang
 description:  CFA I, FRM II
 show_downloads: false
-view-on-github: false
 google_analytics:
 index.md: 
 github:
   is_project_page: false
+kramdown:
+  footnote_nr: 0
 theme: jekyll-theme-dinky
 
  
