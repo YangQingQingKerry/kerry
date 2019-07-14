@@ -11,6 +11,7 @@ My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree i
 - Financial Modeling and Valuation 
 - Market Microstructure 
 - Algo and High Frequency Trading 
+- Kalman-HMM filtering: model estimation  and prediction 
 
 #### Selected Publications  
 
