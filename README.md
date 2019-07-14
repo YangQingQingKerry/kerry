@@ -9,6 +9,7 @@ My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree i
 - Machine Learning 
 - Stochastic Control and Optimization 
 - Kalman-HMM filtering: model estimation  and prediction 
+- Quantitative Trading  
  
 
 #### Selected Publications  
