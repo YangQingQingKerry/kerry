@@ -19,9 +19,9 @@ My name is Yang Qingqing (杨庆庆 in Chinese). I received my bachelor degree i
 3. Q. Yang, W. Ching, J. Gu and T. Siu, "On Optimal Pricing Model for Multiple Dealers in a Competitive Market", Computational Economics, 53, 2019, 397-431.
 4. Q. Yang, W. Ching, J. Gu and T. Wong, "Optimal Liquidation Problems in a Randomly-Terminated Horizon", revised and resubmitted to Automatica.
 5. Q. Yang, W. Ching, T. Siu and  Z. Zhang, "A Markov-Driven Portfolio Execution Strategy across Multiple Venues with Market Impact", Numerical Mathematics: Theory, Methods and Applications, 11(4), 2018, 701-728.
-6. Q.Yang, W.Ching, W.He and N.Song, Effect of Institutional Deleveraging on Option Valuation Problems,
+6. Q.Yang, W.Ching, W.He and N.Song, "Effect of Institutional Deleveraging on Option Valuation Problems",
 Journal of Industrial and Management Optimization, to appear, 2020.
-7. Q.Yang, W.Ching, J.Gu and T.Siu, Trading Strategy with Stochastic Volatility in a LOB Market, Decisions
+7. Q.Yang, W.Ching, J.Gu and T.Siu, "Trading Strategy with Stochastic Volatility in a LOB Market", Decisions
 in Economics and Finance, to appear, 2020.
  
 
